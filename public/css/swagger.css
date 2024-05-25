@@ -1,0 +1,123 @@
+/* Swagger UI Dark Theme */
+body {
+  background-color: #2e2e2e;
+  color: #ffffff;
+}
+
+.swagger-ui .topbar {
+  background: #1a1a1a;
+}
+
+.swagger-ui .topbar .topbar-wrapper a {
+  color: #ffffff;
+}
+
+.swagger-ui .info .title, 
+.swagger-ui .info .version, 
+.swagger-ui .info .description {
+  color: #ffffff;
+}
+
+.swagger-ui .opblock-tag {
+  color: #ffffff;
+  background: #3a3a3a;
+  border-color: #4a4a4a;
+}
+
+.swagger-ui .opblock .opblock-summary-method {
+  color: #ffffff;
+  background: #4a4a4a;
+}
+
+.swagger-ui .opblock .opblock-summary-description,
+.swagger-ui .opblock .opblock-summary-operation-id,
+.swagger-ui .opblock .opblock-summary-path {
+  color: #ffffff;
+}
+
+.swagger-ui .opblock .opblock-section-header h4 {
+  color: #ffffff;
+}
+
+.swagger-ui .opblock-body pre {
+  background-color: #3a3a3a;
+  color: #ffffff;
+}
+
+.swagger-ui .model .model-title {
+  color: #ffffff;
+}
+
+.swagger-ui .model .model-toggle {
+  color: #ffffff;
+}
+
+.swagger-ui .parameter__name {
+  color: #ffffff;
+}
+
+.swagger-ui .parameter__description {
+  color: #cfcfcf;
+}
+
+.swagger-ui .parameter__enum {
+  color: #ffffff;
+}
+
+.swagger-ui .response-col_description__inner {
+  color: #ffffff;
+}
+
+.swagger-ui .tab li {
+  background-color: #4a4a4a;
+  color: #ffffff;
+}
+
+.swagger-ui .tab li.active {
+  background-color: #6a6a6a;
+  color: #ffffff;
+}
+
+.swagger-ui .btn {
+  background-color: #4a4a4a;
+  color: #ffffff;
+}
+
+.swagger-ui .btn:hover {
+  background-color: #6a6a6a;
+  color: #ffffff;
+}
+
+.swagger-ui .response .response-col_status {
+  color: #ffffff;
+}
+
+.swagger-ui .response .response-col_description {
+  color: #ffffff;
+}
+
+.swagger-ui .property.primitive {
+  color: #ffffff;
+}
+
+.swagger-ui .property.primitive .propName {
+  color: #ffffff;
+}
+
+.swagger-ui .parameter__type {
+  color: #ffffff;
+}
+
+.swagger-ui .responses-inner h4 {
+  color: #ffffff;
+}
+
+.swagger-ui .execute-wrapper .btn.execute {
+  background-color: #6a6a6a;
+  color: #ffffff;
+}
+
+.swagger-ui .responses-inner h5, 
+.swagger-ui .responses-inner h5 {
+  color: #ffffff;
+}
